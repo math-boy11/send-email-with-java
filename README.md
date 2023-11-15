@@ -1,0 +1,2 @@
+# Sending an email with Java
+This is the repo that goes with the tutorial on the [Theo's Tech Tips](https://youtube.com/theostechtips). This project uses the [SimpleJavaMail](https://www.simplejavamail.org) dependency to send and manage emails.
